@@ -23,7 +23,7 @@ body {
   position: relative;
 }
 .movie img {
-  height: 400px;
+  height: 375px;
   width: 100%;
   object-fit: cover;
 }
